@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Happy New Year 2026! VGA Display Screen Saver
 
 ## How to test
 
-Explain how to use your project
+Happy New Year 2026! VGA Display Screen Saver
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Happy New Year 2026! VGA Display Screen Saver
