@@ -4,7 +4,11 @@
 Here is my AI-assisted circuit design, utilizing Google Gemini to modify the Verilog code from the Tiny Tapeout VGA Playground, resulting in a "Happy New Year 2026!" VGA Display screen saver! 
 
 
-Uploading HappyNewYear2026!.mov…
+
+
+
+https://github.com/user-attachments/assets/b439af39-5e34-43ac-bea0-5cc8272701f6
+
 
 
 
