@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/907d1018-fc0b-4219-9f27-d699b58aa91e
 
 # 3D view
 
-<img width="577" height="242" alt="Screenshot 2025-12-28 at 6 51 40 AM" src="https://github.com/user-attachments/assets/95dfe52e-08e6-4e96-a4dd-882f65d03bc8" />
+<img width="717" height="308" alt="Screenshot 2025-12-28 at 6 51 40 AM" src="https://github.com/user-attachments/assets/95dfe52e-08e6-4e96-a4dd-882f65d03bc8" />
 
 
 https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/Happy-New-Year-2026-/tinytapeout.oas&pdk=sky130A
