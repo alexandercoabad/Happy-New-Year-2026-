@@ -1,4 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
+# Happy New Year 2026!
+
+Here is my AI-assisted circuit design, utilizing Google Gemini to modify the Verilog code from the Tiny Tapeout VGA Playground, resulting in a "Happy New Year 2026!" VGA Display screen saver! 
 
 # Tiny Tapeout Verilog Project Template
 
