@@ -17,17 +17,20 @@ https://github.com/user-attachments/assets/b439af39-5e34-43ac-bea0-5cc8272701f6
 https://github.com/user-attachments/assets/907d1018-fc0b-4219-9f27-d699b58aa91e
 
 
+# Happy New Year 2026 without tone and with tone generator Statistical Comparison
+
+<img width="756" height="255" alt="Screenshot 2025-12-28 at 6 45 34 AM" src="https://github.com/user-attachments/assets/60d06cac-40af-4b1b-8412-d5e9dd0af792" />
 
 
-# 2D
-<img width="889" height="621" alt="Screenshot 2025-12-27 at 11 53 32 AM" src="https://github.com/user-attachments/assets/eecd7614-b759-43ce-991f-e1ab5fed2212" />
-
-
-# 3D
+# 2D view
+<img width="717" height="308" alt="Screenshot 2025-12-28 at 6 48 05 AM" src="https://github.com/user-attachments/assets/fa748c60-1ec7-4d5c-83bd-fb9163c6cd57" />
 
 
 
-https://github.com/user-attachments/assets/8fec406d-a9e1-4f83-8ccd-d431d7463ba8
+# 3D view
+
+<img width="577" height="242" alt="Screenshot 2025-12-28 at 6 51 40 AM" src="https://github.com/user-attachments/assets/95dfe52e-08e6-4e96-a4dd-882f65d03bc8" />
+
 
 https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/Happy-New-Year-2026-/tinytapeout.oas&pdk=sky130A
 
