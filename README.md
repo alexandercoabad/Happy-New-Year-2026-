@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/b439af39-5e34-43ac-bea0-5cc8272701f6
 https://github.com/user-attachments/assets/907d1018-fc0b-4219-9f27-d699b58aa91e
 
 
-# Happy New Year 2026 Stat Comparison
+# Stat Comparison
 
 <img width="756" height="255" alt="Screenshot 2025-12-28 at 6 45 34 AM" src="https://github.com/user-attachments/assets/60d06cac-40af-4b1b-8412-d5e9dd0af792" />
 
