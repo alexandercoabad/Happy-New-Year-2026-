@@ -10,6 +10,13 @@ Here is my AI-assisted circuit design, utilizing Google Gemini to modify the Ver
 https://github.com/user-attachments/assets/b439af39-5e34-43ac-bea0-5cc8272701f6
 
 
+# Happy New Year 2026 with tone!
+
+
+
+https://github.com/user-attachments/assets/907d1018-fc0b-4219-9f27-d699b58aa91e
+
+
 
 
 # 2D
