@@ -23,13 +23,13 @@ https://github.com/user-attachments/assets/907d1018-fc0b-4219-9f27-d699b58aa91e
 
 
 # 2D view
-<img width="717" height="308" alt="Screenshot 2025-12-28 at 6 48 05 AM" src="https://github.com/user-attachments/assets/fa748c60-1ec7-4d5c-83bd-fb9163c6cd57" />
+<img width="800" height="400" alt="Screenshot 2025-12-28 at 6 48 05 AM" src="https://github.com/user-attachments/assets/fa748c60-1ec7-4d5c-83bd-fb9163c6cd57" />
 
 
 
 # 3D view
 
-<img width="717" height="308" alt="Screenshot 2025-12-28 at 6 51 40 AM" src="https://github.com/user-attachments/assets/95dfe52e-08e6-4e96-a4dd-882f65d03bc8" />
+<img width="800" height="400" alt="Screenshot 2025-12-28 at 6 51 40 AM" src="https://github.com/user-attachments/assets/95dfe52e-08e6-4e96-a4dd-882f65d03bc8" />
 
 
 https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/Happy-New-Year-2026-/tinytapeout.oas&pdk=sky130A
